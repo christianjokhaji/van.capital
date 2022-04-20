@@ -93,7 +93,7 @@ figure {
 /* Child Styles */
 
 section > p {
-	min-width: 380px;
+	min-width: 280px;
 	max-width: 750px;
 	line-height: 1.5;
 }
