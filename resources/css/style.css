@@ -3,6 +3,7 @@
 #mission {
 	background-color: #da000a;
 	color: white;
+	text-align: center;
 }
 
 #objectives {
@@ -82,7 +83,7 @@ figcaption {
 }
 
 section {
-	padding: 40px 10px;
+	padding: 40px 40px;
 }
 
 figure {
