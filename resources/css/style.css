@@ -3,7 +3,7 @@
 #mission {
 	background-color: #da000a;
 	color: white;
-	text-align: center;
+	text-align: left;
 }
 
 #objectives {
@@ -93,10 +93,11 @@ figure {
 /* Child Styles */
 
 section > p {
-	min-width: 300px;
+	min-width: 380px;
 	max-width: 750px;
 	line-height: 1.5;
 	margin: 0 auto;
+	padding-left: 15px;
 }
 
 footer > p {
