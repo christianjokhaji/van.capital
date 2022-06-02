@@ -45,6 +45,10 @@
 
 /* Global Styles */
 
+body {
+	background-color: #323232;
+}
+
 header {
 	height: 200px;
 	background-image: url("../images/david.webp");
